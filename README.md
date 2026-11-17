@@ -1,5 +1,5 @@
 # VOIDGPT
-<img src="VOIDGPT-itisreal.png">
+<img src="voidgpt-itisreal.png">
 
 Next.js App Router app with **Sign in with ChatGPT** via [`openai-oauth`](https://github.com/EvanZhouDev/openai-oauth), ready to deploy on Vercel.
 
