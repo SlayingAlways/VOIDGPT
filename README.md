@@ -34,13 +34,10 @@ Browser ── same-origin POST ──> /api/chat
 ## Installation
 
 ```bash
-# 1. Create the Next.js app (files in this folder)
-cd nextjs-vercel-app
-
-# 2. Install dependencies
+# 1. Install dependencies
 npm install
 
-# 3. Copy environment variables
+# 2. Copy environment variables
 cp .env.example .env
 # Edit .env and set OPENAI_OAUTH_BRIDGE_URL (see "Bridge URL" below)
 ```
